@@ -9,7 +9,7 @@ Płyta główna umożliwia wykorzystanie następujących układów zewnętrznych
 
 ![](BGA_main.png)
 
-Dodatkowo w skład systemu wchodzi wyświetlacz oled, trzy przyciski oraz dwie diody led na oddzielnej płytce, która docelowo znajdzie się na froncie stacji. Dzięki temu rozwiązaniu za pomocą aplikacji i połączenia bezprzewodowego będzie możliwe stworzenie dokładnych profili pracy, wgranie ich do pamięci ESP32 i za pomocą przedniego panelu włączenie wybranego w dowolnej chwili bez konieczności użycia aplikacji na komputerze. 
+Dodatkowo w skład systemu wchodzi wyświetlacz oled, trzy przyciski oraz dwie diody led na oddzielnej płytce, która docelowo znajdzie się na froncie stacji oraz będzie połączona za pomocą taśmy i konektorów FFC z płytą główną. Dzięki temu rozwiązaniu za pomocą aplikacji i połączenia bezprzewodowego będzie możliwe stworzenie dokładnych profili pracy, wgranie ich do pamięci ESP32 i za pomocą przedniego panelu włączenie wybranego w dowolnej chwili bez konieczności użycia aplikacji na komputerze. 
 
 ![](BGA_oled.png)
 
