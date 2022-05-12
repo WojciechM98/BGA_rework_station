@@ -7,6 +7,7 @@ Płyta główna umożliwia wykorzystanie następujących układów zewnętrznych
 - dwie termopary typu K,
 - dwa przekaźniki SSR sterujące oddzielnie górną oraz dolną grzałką,
 - trzy wentylatory, z czego dwa chłodzące lutowaną płytę główną oraz jeden przeznaczony do chłodzenia przekaźników SSR.
+
 Dodatkowo w skład systemu wchodzi wyświetlacz oled, trzy przyciski oraz dwie diody led na oddzielnej płytce, która docelowo znajdzie się na froncie stacji. Dzięki temu rozwiązaniu za pomocą aplikacji i połączenia bezprzewodowego będzie możliwe stworzenie dokładnych profili pracy, wgranie ich do pamięci ESP32 i za pomocą przedniego panelu włączenie wybranego w dowolnej chwili bez konieczności użycia aplikacji na komputerze. 
 
 Projekt cały czas w rozwoju.
